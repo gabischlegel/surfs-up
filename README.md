@@ -12,7 +12,7 @@ The purpose of the analysis was to help W.Avy figure out if his surf and ice cre
 
 ![image](https://user-images.githubusercontent.com/110864175/195223100-7056a087-137d-430f-bc92-e67054117f71.png)
 
--	Although the highs are quite similar between the two months, the low in December is 9 degrees colder than in June. But the standard deviation for December (3.75) has much more promise that the weather will fluctuate. The standard deviation in June is slightly lower at 3.25. 
+-	Although the highs are quite similar between the two months with June only being 2 degrees warmer, the low in December is 9 degrees colder than in June. But the standard deviation for December (3.75) has much more promise that the weather will fluctuate. The standard deviation in June is slightly lower at 3.25. 
 
 ## Summary
 The weather is very similar between December and June, with December being slightly colder but not too cold. The surf and ice cream shop would do well being open year-round with it being slightly more popular in the summer months than winter according to the data. 

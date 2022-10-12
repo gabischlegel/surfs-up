@@ -5,9 +5,11 @@ The purpose of the analysis was to help W.Avy figure out if his surf and ice cre
 
 ## Results
 -	As we see in the below chart, the high in June is 85 and the low is 64. The average is 75 meaning June would be a great month to have the Surf and Ice Cream shop open. 
+
 ![image](https://user-images.githubusercontent.com/110864175/195223095-510d42e1-41e4-46cd-ba5e-2f5bc26ce5f5.png)
 
 -	As we see in the below chart, the high in December is 83 and the low is 56. The average is 71 meaning December would also be a good month to have the Surf and Ice Cream shop open if it doesn’t dip too low. 
+
 ![image](https://user-images.githubusercontent.com/110864175/195223100-7056a087-137d-430f-bc92-e67054117f71.png)
 
 -	Although the highs are quite similar between the two months, the low in December is 9 degrees colder than in June. But the standard deviation for December (3.75) has much more promise that the weather will fluctuate. The standard deviation in June is slightly lower at 3.25. 
